@@ -2,7 +2,7 @@
    "metaDataVersion":"1.0.0",
    "category":"com.microchip.ide.project",
    "content":{
-      "metaDataVersion":"1.0.0",
+      "metaDataVersion":"1.3.0",
       "name":"com.microchip.mplabx.project.dspic33a-code-examples",
       "version":"1.0.0",
       "displayName":"dsPIC33A Code Examples",
