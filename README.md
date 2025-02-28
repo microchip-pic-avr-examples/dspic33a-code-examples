@@ -4,26 +4,11 @@
     <img alt="Microchip Logo." src="images/microchip_logo_black_red.png">
 </picture>
 
-## dspic33a code examples
+## dsPIC33A Code Examples
 
-Board Image if any.
-
-## Summary
+This repository contains the code examples for dsPIC33A device families.
 
 
-## Related Documentation
-
-
-## Software Used 
-
-
-## Hardware Used
-
-
-## Setup
-
-
-## Operation
 
 
 
