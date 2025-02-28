@@ -1,8 +1,8 @@
 {
-   "metaDataVersion":"1.3.0",
+   "metaDataVersion":"1.0.0",
    "category":"com.microchip.ide.project",
    "content":{
-      "metaDataVersion":"1.0.0",
+      "metaDataVersion":"1.3.0",
       "name":"com.microchip.mplabx.project.dspic33a-fft-dsplib",
       "version":"1.0.0",
       "displayName":"Real/Complex FFT implementataion in dsPIC33A",
