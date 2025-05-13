@@ -9,7 +9,7 @@
 
 ## Description:
 
-Microchip's dsPIC® Digital Signal Controllers feature a DSP Engine in the CPU that is capable of executing a Fast Fourier Transform (FFT) 
+Microchip's dsPICï¿½ Digital Signal Controllers feature a DSP Engine in the CPU that is capable of executing a Fast Fourier Transform (FFT) 
 with great efficiency (high speed and low RAM usage). The on-chip features enabling the FFT implementation include, bit-reversed addressing,
 Multiply-accumulate (MAC) type instructions and the ability to store and retrieve constants stored in Program memory.
 
@@ -132,6 +132,6 @@ Observe output variable `peakFrequency` in debug mode. Value should be almost ne
 	
 ## Software Used 
 
-- MPLAB® X IDE v6.20 or newer (https://www.microchip.com/mplabx)
-- MPLAB® XC-DSC v3.20 or newer (https://www.microchip.com/xc)
-- MPLAB® XC-DSC DSP Library. Documentation can be found at `compiler_installation_folder/docs/dsp_lib`
+- MPLABÂ® X IDE v6.20 or newer (https://www.microchip.com/mplabx)
+- MPLABÂ® XC-DSC v3.20 or newer (https://www.microchip.com/xc)
+- MPLABÂ® XC-DSC DSP Library. (Shttps://www.microchip.com/en-us/software-library/dsp-library-for-dspic33a-dscs)
