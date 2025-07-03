@@ -10,7 +10,7 @@
       "shortDescription":"dsPIC33A Code Examples",
       "ide":{
          "name":"MPLABX",
-         "semverRange":">=6.20"
+         "semverRange":">=6.25"
       },
       "compiler":{
          "name":"XC-DSC",

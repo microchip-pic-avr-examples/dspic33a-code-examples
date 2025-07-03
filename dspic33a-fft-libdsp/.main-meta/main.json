@@ -10,7 +10,7 @@
       "shortDescription":"Example code for dsPIC33A devices, demonstrating the implementation of FFT operations using the XC-DSC DSP Library.",
       "ide":{
          "name":"MPLABX",
-         "semverRange":">=6.20"
+         "semverRange":">=6.25"
       },
       "compiler":{
          "name":"XC-DSC",
