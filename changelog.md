@@ -1,3 +1,10 @@
+# dsPIC33A Code Examples v1.0.1
+### Release Highlights
+
+Patch release to update the DFP used in the project.
+
+
+### Features Added\Updated
 
 # dsPIC33A Code Examples v1.0.0
 ### Release Highlights
